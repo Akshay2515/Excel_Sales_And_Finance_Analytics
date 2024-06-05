@@ -4,7 +4,8 @@
 
 
 
-# 📊 Excel: Mother of Business - Sales and Finance Analytics Project
+# 📊 Excel: Mother of Business Intelligence - Sales and Finance Analytics Project  https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/blob/main/Sales%20and%20financial%20Report/Sales_and_finance_analysis_.pdf
+
 Welcome to my GitHub repository, This repository includes comprehensive project focused on Sales and Finance Analytics, demonstrating my ability to handle real-time business requirements using advanced Excel techniques.
 
 ## Project Objective:
