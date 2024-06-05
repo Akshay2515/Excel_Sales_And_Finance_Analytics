@@ -99,6 +99,8 @@ Developed comprehensive P&L statements by fiscal year and fiscal month, enabling
 2. **Gross Margin** : [Net Sales]-[COGS]
 3. **GM%** : DIVIDE([Gross Margin). [Net Sales].0)
 
-
+**Business Reports Created:**
+1. **P & L Statement by market**
+2. **GM% By Quarters**
 
 
