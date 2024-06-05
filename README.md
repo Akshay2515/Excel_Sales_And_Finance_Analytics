@@ -110,6 +110,7 @@ Developed comprehensive P&L statements by fiscal year and fiscal month, enabling
 ![GMBYQ](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/f819675d-e958-48d8-ab6f-ebc776f710cc)
 
 ## 🛠️ Tools and Technologies Used
-1. **Excel**: Advanced features including Power Pivot and Power Query
-2 **DAX**: Formulas for data analysis and reporting
-3 **Power Query**: For ETL processes and data cleaning
+
+1. **Excel**: Advanced features including Power Pivot and Power Query.
+2 **DAX**: Formulas for data analysis and reporting.
+3 **Power Query**: For ETL processes and data cleaning.
