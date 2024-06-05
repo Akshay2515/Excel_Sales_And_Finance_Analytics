@@ -1,1 +1,40 @@
 # Excel_Sales_And_Finance_Analytics
+
+
+
+
+# 📊 Excel: Mother of Business - Sales and Finance Analytics Project
+Welcome to my GitHub repository, This repository includes comprehensive project focused on Sales and Finance Analytics, demonstrating my ability to handle real-time business requirements using advanced Excel techniques.
+
+## Project Objective:
+Expertise a comprehensive sales and financial report analysing AtliQ Hardware's market performance for the years 2019, 2020, and 2021, furnishing valuable insights for informed decision-making.
+
+## Project Breakdown:
+Sales Analysis: Conducted a comprehensive analysis, examining yearly trends, customer contributions, market segmentation, product performance, and divisional breakdowns to facilitate strategic decision-making. Finance Analysis: Developed key financial metrics and integrated them into a comprehensive Profit and Loss statement to enhance decision-making capabilities.
+
+
+## 📈 Sales Analytics Project
+## Key Components:
+
+## ETL Process:
+Extracted, transformed, and loaded data using Power Query to connect data from diverse sources.
+## Data Cleaning:
+Ensured data accuracy and usability by identifying and correcting inaccuracies in Power Query.
+## Report Planning:
+Designed business reports, focusing on components such as net sales, year, division, country, and region.
+## Data Modeling:
+Connected various datasets by establishing relationships and understanding fiscal year concepts.
+## Customer Net Sales Performance Report:
+Created using Pivot Tables and DAX formulas like CALCULATE().
+## Conditional Formatting:
+Applied to highlight important data, identify trends, and improve data readability.
+## Market Performance Reports:
+Developed reports to analyze market-wise performance vs. targets.
+
+
+**Business Reports Created:**
+1. **Top 10 Products** by Percentage Increase in Net Sales (2020-2021)
+2. **Division Report**: Net sales data for 2020 and 2021 with growth percentages.
+3. **Top 5 and Bottom 5 Products** by Quantity Sold
+4. **New Products Launched in 2021** by Atliq
+5. **Top 5 Countries** by Net Sales in 2021
