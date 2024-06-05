@@ -101,6 +101,10 @@ Developed comprehensive P&L statements by fiscal year and fiscal month, enabling
 
 **Business Reports Created:**
 1. **P & L Statement by market**
-2. **GM% By Quarters**
+
+![PLBYMARKET](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/1b3ef558-e2e4-4f4d-a7f5-5c4612b11728)
+
+   
+3. **GM% By Quarters**
 
 
