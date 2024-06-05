@@ -1,5 +1,6 @@
 # Excel_Sales_And_Finance_Analytics
 
+![sales and finance](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/311a4c20-9b2d-42d4-96e9-895c860266da)
 
 
 
