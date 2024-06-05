@@ -14,7 +14,7 @@ Expertise a comprehensive sales and financial report analysing AtliQ Hardware's 
 Sales Analysis: Conducted a comprehensive analysis, examining yearly trends, customer contributions, market segmentation, product performance, and divisional breakdowns to facilitate strategic decision-making. Finance Analysis: Developed key financial metrics and integrated them into a comprehensive Profit and Loss statement to enhance decision-making capabilities.
 
 
-## 📈 Sales Analytics Project
+## 📈 Sales Analytics 
 ## Key Components:
 
 ## ETL Process:
@@ -78,4 +78,27 @@ Developed reports to analyze market-wise performance vs. targets.
 
 
 ## 📊 Finance Analytics
+
+![finance](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/b9ecb976-2acc-4ff4-8ada-df216e78b6aa)
+
+## Finance Analytics Project Highlights:
+## Understanding P&L Statements:
+Learned the significance of Profit and Loss (P&L) statements in organizational financial health.
+## COGS and Gross Margin:
+Gained in-depth knowledge of Cost of Goods Sold (COGS) and how to calculate Gross Margin and Gross Margin Percentage.
+## Data Modeling in Power Pivot:
+Integrated financial data into the data model using Excel Power Pivot.
+## DAX Formulas:
+Created DAX formulas to compute Gross Margin and Gross Margin Percentage accurately.
+## Report Creation:
+Developed comprehensive P&L statements by fiscal year and fiscal month, enabling detailed financial analysis.
+
+
+## SOME DAX-FORMULAS TO FIND THE P & L STATEMENT BY FISCAL YEAR AND FISCAL MONTH
+1. **COGS** : SUM(fact_sales_monthly[total_cogs])
+2. **Gross Margin** : [Net Sales]-[COGS]
+3. **GM%** : DIVIDE([Gross Margin). [Net Sales].0)
+
+
+
 
