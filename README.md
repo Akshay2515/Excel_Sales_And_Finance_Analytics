@@ -25,12 +25,32 @@ Ensured data accuracy and usability by identifying and correcting inaccuracies i
 Designed business reports, focusing on components such as net sales, year, division, country, and region.
 ## Data Modeling:
 Connected various datasets by establishing relationships and understanding fiscal year concepts.
+
+
+
+
 ## Customer Net Sales Performance Report:
 Created using Pivot Tables and DAX formulas like CALCULATE().
 ## Conditional Formatting:
 Applied to highlight important data, identify trends, and improve data readability.
 ## Market Performance Reports:
 Developed reports to analyze market-wise performance vs. targets.
+
+
+## SOME DAX-FORMULAS USED TO FIND THE CUSTOMER NET SALES PERFORMANCE AND MARKET PERFORMANCE vs. TARGET
+1. **Net Sales** : SUM(fact_sales_monthly[net_sales_amount])
+2. **Net Sales 2019** : CALCULATE ([Net Sales], dim_date [FY year] = "2019")
+3. **Net Sales 2020** : CALCULATE ([Net Sales], dim_date [FY year] = "2020")
+4. **Net Sales 2021** : CALCULATE ([Net Sales], dim_date [FY year] = "2021")
+5. **2021 vs 2020** : DIVIDE([Net Sales 2021]. [Net Sales 2020).0)
+6. **2021-Target** : [Net Sales 2021]-[Target 21]
+7. **2021-Target%** : DIVIDE([2021-Target]. [Net Sales 2021].0)
+
+
+
+
+
+
 
 
 **Business Reports Created:**
