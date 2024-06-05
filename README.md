@@ -26,6 +26,7 @@ Designed business reports, focusing on components such as net sales, year, divis
 ## Data Modeling:
 Connected various datasets by establishing relationships and understanding fiscal year concepts.
 
+![data model](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/2f371aee-8a8f-4ad8-a136-ca2503ffabf8)
 
 
 
