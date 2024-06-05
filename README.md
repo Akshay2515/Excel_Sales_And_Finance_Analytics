@@ -49,26 +49,33 @@ Developed reports to analyze market-wise performance vs. targets.
 
 
 **Business Reports Created:**
-1. **Top 10 Products** by Percentage Increase in Net Sales (2020-2021)
+1. **Top 10 Products** top 10 products based on the percentage increase in their net sales from 2020 to 2021.
 
 ![top10](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/719eeb1d-c66b-492f-97a8-91eb492775c1)
 
 
    
-3. **Division Report**: Net sales data for 2020 and 2021 with growth percentages.
+2 **Division Report**: Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.
 
 ![dlevel](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/dbd54c4b-4777-49ef-b845-2917f25f5c4a)
 
    
-5. **Top 5 and Bottom 5 Products** by Quantity Sold
+3. **Top 5 and Bottom 5 Products** top 5 and bottom 5 in terms of quantity sold.
 
 ![topbottom](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/7e096725-d400-4c80-be30-e7c72e2d74e8)
 
    
-7. **New Products Launched in 2021** by Atliq
+4. **New Products Launched in 2021**  new products that Atliq began selling in 2021.
    
 ![newproduct](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/4f3531de-19fd-48db-be76-9ce01e9140d6)
 
 
    
-9. **Top 5 Countries** by Net Sales in 2021
+5. **Top 5 Countries**  top 5 countries in terms of net sales in 2021.
+
+![top5](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/082a51c8-6afe-4515-bab5-efe61abe5bf1)
+
+
+
+## 📊 Finance Analytics
+
