@@ -56,6 +56,10 @@ Developed reports to analyze market-wise performance vs. targets.
 
    
 3. **Division Report**: Net sales data for 2020 and 2021 with growth percentages.
-4. **Top 5 and Bottom 5 Products** by Quantity Sold
-5. **New Products Launched in 2021** by Atliq
-6. **Top 5 Countries** by Net Sales in 2021
+
+![dlevel](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/dbd54c4b-4777-49ef-b845-2917f25f5c4a)
+
+   
+5. **Top 5 and Bottom 5 Products** by Quantity Sold
+6. **New Products Launched in 2021** by Atliq
+7. **Top 5 Countries** by Net Sales in 2021
