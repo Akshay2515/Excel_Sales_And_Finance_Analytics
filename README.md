@@ -48,12 +48,6 @@ Developed reports to analyze market-wise performance vs. targets.
 7. **2021-Target%** : DIVIDE([2021-Target]. [Net Sales 2021].0)
 
 
-
-
-
-
-
-
 **Business Reports Created:**
 1. **Top 10 Products** by Percentage Increase in Net Sales (2020-2021)
 2. **Division Report**: Net sales data for 2020 and 2021 with growth percentages.
