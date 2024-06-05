@@ -61,5 +61,9 @@ Developed reports to analyze market-wise performance vs. targets.
 
    
 5. **Top 5 and Bottom 5 Products** by Quantity Sold
-6. **New Products Launched in 2021** by Atliq
-7. **Top 5 Countries** by Net Sales in 2021
+
+![topbottom](https://github.com/Akshay2515/Excel_Sales_And_Finance_Analytics/assets/126151845/7e096725-d400-4c80-be30-e7c72e2d74e8)
+
+   
+7. **New Products Launched in 2021** by Atliq
+8. **Top 5 Countries** by Net Sales in 2021
